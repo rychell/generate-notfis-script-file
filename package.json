@@ -1,0 +1,10 @@
+{
+  "name": "generate-notfis-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rychell Sousa <rychell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
